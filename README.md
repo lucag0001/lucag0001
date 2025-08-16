@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm LucaG</h1>
 <h3 align="center">A passionate Full-Stack-Developer from Germany</h3>
 
-- 🔭 I’m currently working on [German Fast Crimelife](https://discord.gg/gfcrimelife)
 - 🌱 I’m currently learning **JS Frameworks & C#**
 - 📫 How to reach me **https://discord.com/users/437962255762587648/**
 
